@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug 2
+name: 🐛 Bug 3
 about: Create a new issue for bug reporting!
 title: ""
 labels:
